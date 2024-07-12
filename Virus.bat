@@ -28,4 +28,3 @@ start
 start
 start
 start
-msg *You clicked on Virus.bat*
